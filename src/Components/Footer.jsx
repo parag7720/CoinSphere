@@ -30,18 +30,18 @@ export default function Footer() {
     <VStack w={'full'} >
             <HStack spacing={4}>
 <Button  fontSize={24} w={10} borderRadius={'50%'}>
-   <a href="https://github.com/Prabhav27" target='blank'>
+   <a href="https://github.com/parag7720" target='blank'>
     <ImGithub />
     </a> 
     </Button>
 <Button   fontSize={22} w={10} borderRadius={'50%'}>
-    <a href="https://www.linkedin.com/in/prabhav-bakliwal-cse/" target='blank'>
+    <a href="https://www.linkedin.com/in/parag-mahajan-b05991223" target='blank'>
         <GrLinkedin />
         </a>
         </Button>
 
 <Button  fontSize={30} width={10} borderRadius={'50%'}>
-    <a href="https://www.instagram.com/prabhav_2710/" target='blank'>
+    <a href="https://www.instagram.com/__parag__77/" target='blank'>
 
 <AiFillInstagram />
     </a>
