@@ -19,7 +19,7 @@ export default function Footer() {
 
    <VStack w={'full'}  borderLeft={['none', '1px solid white']}
           borderRight={['none', '1px solid white']}>
-     <Text  textAlign={'center'}>COPYRIGHT © 2024 PRABHAV BAKLIWAL
+     <Text  textAlign={'center'}>COPYRIGHT © 2024 Parag Mahajan
     
 </Text>
 <Text textAlign={'center'}>
